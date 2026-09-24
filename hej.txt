@@ -1,4 +1,4 @@
-﻿Det här är min Git-övning.
+﻿Det här är min ändring från main.
 Det här är min första ändring på nya-grejjer.
 Det här är min andra ändring på nya-grejjer.
 Det här är min tredje ändring på nya-grejjer.
