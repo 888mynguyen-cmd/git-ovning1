@@ -1,1 +1,2 @@
 ﻿Det här är min Git-övning.
+Det här är min första ändring på nya-grejjer.
