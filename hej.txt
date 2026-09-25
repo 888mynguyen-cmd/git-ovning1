@@ -2,3 +2,4 @@ Det här är min lösta ändring efter merge-konflikten.
 Det här är min första ändring på nya-grejjer.
 Det här är min andra ändring på nya-grejjer.
 Det här är min tredje ändring på nya-grejjer.
+Detta är min ändring på GitHub!
